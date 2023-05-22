@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Archivio-CD.iml" filepath="$PROJECT_DIR$/Archivio-CD.iml" />
-      <module fileurl="file://$USER_HOME$/Documents/UniBs/FondamentiInformatica/UniBSFpLib/UniBSFpLib.iml" filepath="$USER_HOME$/Documents/UniBs/FondamentiInformatica/UniBSFpLib/UniBSFpLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../git/repository/UniBSFpLib/UniBSFpLib.iml" filepath="$PROJECT_DIR$/../git/repository/UniBSFpLib/UniBSFpLib.iml" />
     </modules>
   </component>
 </project>

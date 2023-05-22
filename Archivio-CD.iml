@@ -8,8 +8,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="UniBSFpLib" />
-    <orderEntry type="module" module-name="UniBSFpLib" />
     <orderEntry type="library" name="junit" level="application" />
+    <orderEntry type="module" module-name="UniBSFpLib" />
   </component>
 </module>
